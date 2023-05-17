@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/newsfront/static/css/main.74346e01.css",
-    "main.js": "/newsfront/static/js/main.3271fa63.js",
+    "main.js": "/newsfront/static/js/main.2e70c2f0.js",
     "static/media/ArialTh.ttf": "/newsfront/static/media/ArialTh.5ae17c1655e3429bc731.ttf",
     "index.html": "/newsfront/index.html",
     "main.74346e01.css.map": "/newsfront/static/css/main.74346e01.css.map",
-    "main.3271fa63.js.map": "/newsfront/static/js/main.3271fa63.js.map"
+    "main.2e70c2f0.js.map": "/newsfront/static/js/main.2e70c2f0.js.map"
   },
   "entrypoints": [
     "static/css/main.74346e01.css",
-    "static/js/main.3271fa63.js"
+    "static/js/main.2e70c2f0.js"
   ]
 }
